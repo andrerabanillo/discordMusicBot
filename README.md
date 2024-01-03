@@ -41,15 +41,17 @@ Replace token = "" with your Discord bot token.
 
 Run the program, this is where the discord bot should join the discord channel you are currently in 
 
-Invite the bot to your Discord server and grant it access to voice channels. Type?play [YouTube URL] in a text channel where the bot is present. To control the bot's music playback in voice channels, use the commands?pause,?resume, or?stop.
+Invite the bot to your Discord server and grant it access to voice channels. 
 
-Before attempting to play music, make sure the bot is online and linked to a voice channel on your server.
+Type ?play [YouTube URL] in a text channel where the bot is present. 
+
+To control the bot's music playback in voice channels, use the commands ?pause, ?resume, or ?stop.
 
 ### For example: 
 
 ?play https://www.youtube.com/watch?v=1uYWYWPc9HU 
 
-and the bot will play audio from the youtube video
+and the bot will play audio from the youtube video. Before attempting to play music, make sure the bot is online and linked to a voice channel on your server.
 
 ## Limitations
 
