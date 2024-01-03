@@ -35,7 +35,7 @@ Copy the following code into your terminal:
 FFmpeg Installation: Download and install FFmpeg from FFmpeg. 
 https://ffmpeg.org/download.html
 
-Code Setup:
+### Code Setup:
 
 Replace token = "" with your Discord bot token.
 
@@ -47,7 +47,7 @@ Type ?play [YouTube URL] in a text channel where the bot is present.
 
 To control the bot's music playback in voice channels, use the commands ?pause, ?resume, or ?stop.
 
-### For example: 
+### For Example: 
 
 ?play https://www.youtube.com/watch?v=1uYWYWPc9HU 
 
