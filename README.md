@@ -47,7 +47,9 @@ Before attempting to play music, make sure the bot is online and linked to a voi
 
 ### For example: 
 
-?play https://www.youtube.com/watch?v=1uYWYWPc9HU and the bot will play audio from the youtube video
+?play https://www.youtube.com/watch?v=1uYWYWPc9HU 
+
+and the bot will play audio from the youtube video
 
 ## Limitations
 
