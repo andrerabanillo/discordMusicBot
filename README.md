@@ -1,6 +1,6 @@
 # Discord Music Bot
 
-This following project allows Discord users in a voice chat to play audio from a Youtube video.
+This following program allows Discord users in a voice chat to play audio from a Youtube video.
 
 ## Description
 This Discord bot plays YouTube audio in voice channels using the discord.py library. 
@@ -8,8 +8,6 @@ This Discord bot plays YouTube audio in voice channels using the discord.py libr
 With user commands such as "?play ", "?pause", "?resume", and "?stop", it can establish a connection to a voice channel and play, pause, resume, and stop tracks. 
 
 The bot uses FFmpeg and youtube_dl to manage audio playback and extraction on Discord servers.
-
-## Getting Started
 
 ### Dependencies
 
